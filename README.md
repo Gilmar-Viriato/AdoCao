@@ -38,19 +38,16 @@ Exibe a **localização aproximada** do desaparecimento ou do encontro do pet no
 - HTML5  
 - CSS3  
 - JavaScript  
-- *(Framework opcional: React, Vue ou Angular)*
 
 ---
 
 ### ⚙️ Back-end
 - Node.js / Express  
-  *(ou Java + Spring Boot, se for o caso)*
 
 ---
 
 ### 🗄️ Banco de Dados
 - MySQL  
-- *(ou MongoDB, conforme necessidade do projeto)*
 
 ---
 
@@ -91,3 +88,4 @@ npm start
 ## 🐕 Licença
 
 Este projeto está sob a licença **MIT** 
+
